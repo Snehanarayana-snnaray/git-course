@@ -1,6 +1,6 @@
 Get the user data ...
 Process the data ...
 
-create a avator for user
+
 
 login and logout
